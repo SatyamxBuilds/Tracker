@@ -28,29 +28,7 @@ Managing money shouldn't be complicated.
 
 Whether it's tracking daily expenses or understanding monthly spending patterns, this application helps users make smarter financial decisions.
 
-## 🖥️ Application Preview
 
-<div align="center">
-
-<!-- Replace these image paths with your actual screenshots -->
-
-<img src="screenshots/dashboard.png" width="95%" alt="Expense Tracker Dashboard"/>
-
-*Main Dashboard – Your financial overview at a glance.*
-
-<br/><br/>
-
-<img src="screenshots/transactions.png" width="95%" alt="Transaction Management"/>
-
-*Transaction Management – Keep track of every transaction.*
-
-<br/><br/>
-
-<img src="screenshots/analytics.png" width="95%" alt="Expense Analytics"/>
-
-*Analytics – Understand your spending patterns.*
-
-</div>
 
 ## ✨ Features
 
