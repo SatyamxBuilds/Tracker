@@ -195,11 +195,11 @@ Contributions, suggestions and improvements are welcome!
 
 <div align="center">
 
-### Bhaskar Pandey
+### Satyam Pandey
 
 B.Tech – Computer Science and Engineering (AI & ML)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhaskar-pandey-71ab93376/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/satyamxpandey26)
 
 </div>
 
